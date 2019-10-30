@@ -1,3 +1,11 @@
-Readme in process. Requires a few things, see the script's file for the list :^)
+Readme in process.
+
+Combines the GroupMe API Python wrapper library and the word_cloud library to create word clouds of a specified user's messages in a GroupMe group. WIP 
+
+Requires the Groupy wrapper for the GroupMe API: https://github.com/rhgrant10/Groupy
+Requires amueller's word_cloud library/package: https://github.com/amueller/word_cloud
+Requires a GroupMe developer account (easy to set up if you have a standard account)
+
+Run without any arguments for usage info.
 
 Made with ❤ using Notepad
