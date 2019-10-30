@@ -7,5 +7,6 @@ Requires amueller's word_cloud library/package: https://github.com/amueller/word
 Requires a GroupMe developer account (easy to set up if you have a standard account)
 
 Run without any arguments for usage info.
+Written for Python 3
 
 Made with ❤ using Notepad
